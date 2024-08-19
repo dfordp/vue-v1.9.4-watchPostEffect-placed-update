@@ -6,6 +6,14 @@
   "private": false,
   "arguments": [],
   "meta": {
-    "tags": ["radix","vue","radix-vue", "v1.9.4","bug fix","watchPostEffect placed update" ]
+    "tags": [
+      "radix",
+      "vue",
+      "radix-vue",
+      "v1.9.4",
+      "bug fix",
+      "watchPostEffect placed update"
+    ],
+    "git": "https://github.com/dfordp/vue-v1.9.4-watchPostEffect-placed-update.git"
   }
 }
