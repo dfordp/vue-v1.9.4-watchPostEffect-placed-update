@@ -5,5 +5,7 @@
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
-  "meta": {}
+  "meta": {
+    "tags": ["radix","vue","radix-vue", "v1.9.4","bug fix","watchPostEffect placed update" ]
+  }
 }
